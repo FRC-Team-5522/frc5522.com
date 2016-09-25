@@ -1,0 +1,12 @@
+HTTrack3.48-20 launched on Fri, 22 Jan 2016 15:50:47 at http://first.wpi.edu/FRC/roborio/release/docs/java
+(httrack http://first.wpi.edu/FRC/roborio/release/docs/java )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:00:11	Error: 	"Not Found" (404) at link first.wpi.edu/FRC/roborio/release/docs/java/resources/fonts/dejavu.css (from first.wpi.edu/FRC/roborio/release/docs/java/stylesheet.css)
+
+HTTrack Website Copier/3.48-20 mirror complete in 9 minutes 35 seconds : 1534 links scanned, 1532 files written (21296470 bytes overall) [3856005 bytes received at 6706 bytes/sec], 21297646 bytes transferred using HTTP compression in 1535 files, ratio 16%, 80.7 requests per connection
+(1 errors, 0 warnings, 0 messages)

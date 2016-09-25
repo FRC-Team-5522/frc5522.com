@@ -1,0 +1,120 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn">
+  <head>
+    <title> FRC 大本营</title>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+  </head>
+  <body>
+    <image src="images/frc5522-logo.png" height="150px" style="position:fixed; top:0px; right:0px; transform-origin:50% 100%" alt="We are FRC Team 5522 stargazer...."/>
+    <h2>FRC Team 5522 大本营</h2>
+    <image src="frc2016/download/first-stronghold.jpg" height="200px" />
+    <p/>
+    
+    <h2>队员名单及分组情况</h2>
+    <ul>
+      <li><a href="members.html">队员名单</a></li>
+      <li><a href="orgnize.html">组织分工</a></li>
+      <li><a href="calender.html">工作计划及队伍日历</a></li>
+    </ul>
+
+    <h2>2016赛季时间表</h2>
+    官网日历:
+    <a href="http://www.firstinspires.org/calendar-month/2016-01" target="_blank">一月</a>,
+    <a href="http://www.firstinspires.org/calendar-month/2016-02" target="_blank">二月</a>,
+    <a href="http://www.firstinspires.org/calendar-month/2016-03" target="_blank">三月</a>,
+    <a href="http://www.firstinspires.org/calendar-month/2016-04" target="_blank">四月</a><br/>
+    <br>
+
+    <h2>地区赛信息</h2>
+    <a href="http://www.frcventuraregional.com" target="_blank">文图拉(Ventura)赛区官方网站(需要翻墙)</a><br>
+    翻不了墙的同学请点击<a href="http://frc5522.com:9000/www.frcventuraregional.com/index.html" target="_blank">本地镜像</a><br>
+    Ventura举例洛杉矶50英里左右<br>
+    <pre>
+      Location
+      4667 Telegraph Road, Ventura, CA 93003
+      (805) 654-6400
+    </pre>
+    <pre>
+      Dates & Time
+      March 24, 25 and 26, 2016 from 8:30 am - 5 pm
+    </pre>
+    <h2>2016赛季信息</h2>
+    <h3>文档更新</h3>
+    <ul>
+      <li><a href="frc2016/download/frc-2016-team-update-all.pdf" target="_blank">完整 team update 1/15/2016</a></li>
+      <li><a href="frc2016/download/frc-2016-team-update-02.pdf" target="_blank">team update 01</a></li>
+      <li><a href="frc2016/download/frc-2016-team-update-01.pdf" target="_blank">team update 02</a></li>
+    </ul>
+    <h3>开发环境安装(Win7 32bits)密码:@Ahead)Together!FRC^2016</h3>
+    <ul>
+      <li>
+        <a href="https://wpilib.screenstepslive.com/s/4485/m/13503/l/144150?data-resolve-url=true&data-manual-id=13503" target="_blank">FRC 2016 Update Suite (All Languages)</a>
+        <a href="frc2016/download/FRCUpdate2016.0.0.zip"target="_blank">本地下载(846M)</a>
+        <a href="frc2016/download/FRCUpdateSuite_2016.1.0.zip" target="_blank">本地下载(846M)(新)</a>
+      </li>
+      <li><a href="frc2016/download/frc-2016-windows-toolchain-4.9.3.msi" target="_blank">frc-2016-windows-toolchain-4.9.3.msi(本地下载)(40M)</a></li>
+      <li><a href="frc2016/download/jdk-8u71-windows-i586.exe" target="_blank">jdk本地下载(190M)</a></li>
+      <li><a href="frc2016/download/frc-2016-wpilib-eclipse-plugins.zip" target="_blank">eclipse FRC plugins 本地下载(87M)</a></li>
+      <li><a href="frc2016/download/grip-1.1.1-x64.exe">grip-1.1.1-x64.exe(80M)</a></li>
+      <li><a href="frc2016/download/grip-1.0.0-x86.exe">grip-1.0.0-x86.exe(80M)</a></li>
+    </ul>
+    <h3>正式文件</h3>
+    <ul>
+      <li><a href="http://www.firstinspires.org/robotics/frc/game-and-season" target="_blank">2016赛季信息(官网)</a>  </li>
+      <li><a href="http://www.firstinspires.org/robotics/frc/calendar" target="_blank">赛季日历(官网)</a>  </li>
+      <li><a href="frc2016/download/frc-2016-admin-manual.pdf" target="_blank">管理手册 (无密码 updated 2/19/2016)</a></li>
+      <li><a href="frc2016/download/frc-2016-game-manual.pdf" target="_blank">比赛手册 (无密码 updated 2/23/2016)</a></li>
+      <li><a href="frc2016/download/frc-field-drawings-2016-enc.zip" target="_blank">场地图 密码:@Ahead)Together!FRC^2016</a></li>
+      <li><a href="https://wpilib.screenstepslive.com/s/4485" target="_blank">2016 FRC Control System</a></li>
+      <li>
+        <a href="http://www.firstinspires.org/node/5061">技术资源(Technical Resources)</a>
+        <ul>
+          <li>
+            <a href="http://www.firstinspires.org/node/5026">机械(Mechanical)</a>
+            <ul>
+              <li><a href="frc2016/download/2016-rqbs.zip">Robot Quick Build Instructions(机器人搭建快速指南,官方打包文件本地下载)</a></li>
+            </ul>
+          </li>
+          <li><a href="https://wpilib.screenstepslive.com/s/4485/m/24166">电子(Electrical)</a></li>
+          <li>
+            <a href="https://wpilib.screenstepslive.com/s/4485">编程(Program)</a>
+            <ul>
+              <li><a href="http://first.wpi.edu/FRC/roborio/release/docs/cpp/">WPI API文档</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.firstinspires.org/node/5066">CAD设计与自动化(CAD Design and Animation)</a></li>
+        </ul>
+      </li>
+      <li>器材规格资料
+      <ul>
+        <li><a href="frc2016/download/Accelerometer-Gyro.pdf">加速度传感器, 陀螺仪手册</a></li>
+      </ul>
+      </li>
+      <li><a href="frc2016/download/first-stronghold-game-reveal.mp4" target="_blank">比赛视频</a></li>
+      <li><a href="frc2016/download/2016-kickoff-kit-checklist-gray-tote-enc.pdf" target="_blank">Gray Tote Checklist(灰色箱装箱单)密码:@Ahead)Together!FRC^2016</a></li>
+      <li><a href="frc2016/download/2016-kickoff-kit-checklist-yellow-tote-enc.pdf" target="_blank">Yellow Tote Checklist(黄色箱装箱单)密码:@Ahead)Together!FRC^2016</a></li>
+      <li><a href="frc2016/download/2016-kickoff-kit-checklist-drive-base-kit-enc.pdf" target="_blank">Drive Base Kit Checklist(驾驶员件件装箱单)密码:@Ahead)Together!FRC^2016</a></li>
+      <li><a href="frc2016/download/2016-kickoff-kit-checklist-separate-items-enc.pdf" target="_blank">Separate Items Checklist(其它独立零件清单)密码:@Ahead)Together!FRC^2016</a></li>
+      <li><a href="frc2016/download/first-stronghold.jpg" target="_blank">比赛LOGO</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Google_Cardboard" target="_blank">谷歌全景相机</a>照片
+      <ul>
+        <li><a href="frc2016/download/cardboard-camera.apk">下载:Google Cardboard Camera apk</a></li>
+      </ul>
+        <ul>
+          <li><a href="frc2016/download/Kickoff2016Center.vr.jpg" target="_blank">场地中心视角</a></li>
+          <li><a href="frc2016/download/Kickoff2016BlueEnd.vr.jpg" target="_blank">蓝队视角</a></li>
+          <li><a href="frc2016/download/Kickoff2016RedEnd.vr.jpg" target="_blank">红队视角</a></li>
+          <li><a href="frc2016/download/Kickoff2016SpyBox.vr.jpg" target="_blank">间谍区视角</a></li>
+        </ul>
+      </li>
+    </ul>
+    <a href="activities/index.html">Team 5522 程序组活动记录</a><br>
+    <a href="2015.html">2015赛季信息</a>
+    <h3>其它下载</h3>
+    <ul>
+      <li><a href="download/putty.exe">putty.exe </a></li>
+      <li><a href="others/com.bambuna.podcastaddict.apk">Podcast Addict for android </a></li>
+      <li><a href="others/com.velestar.vssh.apk">VSSH for android </a></li>
+      <li><a href="downloadThe-Blue-Aliance.apk">The-Blue-Aliance.apk</a></li>
+    </ul>
+  </body>
+</html>

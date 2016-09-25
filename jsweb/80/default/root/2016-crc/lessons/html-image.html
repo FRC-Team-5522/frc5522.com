@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+    <style type="text/css">
+      table, th, td {
+      border-collapse:collapse;
+      border:1px solid;
+      empty-cells:show;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>教程：如何在网页中插入图片</h1>
+    <h3>第一步：准备工具</h3>
+    <p>要把图片插入网页中，需要把图片上传到服务器上，所以需要在电脑上先一个上传文件的工具。在windows下，可以使用WinScp工具<a href="http://winscp.net/eng/docs/lang:chs" target="_blank">可以从这里下载</a></p>
+    <p>按照这个网站上的说明安装软件并使用你们的账号密码登录到服务器上。</p>
+    <h3>第二步：准备图片</h3>
+    <p>相机或手机拍摄的原始图片往往都很大，而嵌在网页中的图片如果很大的话，会浪费大量的流量，同时减慢网页的加载速度。所以嵌入页面的图片都需要进行缩小的操作，具体如何缩小图片这里就不说了，一般来说嵌在页面中的文件不要超过256k字节。对于jpg文件来说，分辨率不超过1024x1024的图片，压缩质量为8的图片不会超过上面的限制。<p>
+      <h3>第三步：上传图片</h3>
+      <p>目前，对于需要上传图片的同学，在你们的个人目录下面有一个images文件夹，或者在frc5522.com下有一个images文件夹，把图片文件上传到这个文件夹即可</p>
+      <p>注意：这个文件夹是大家共享的，注意上传文件时不要和已有的文件重名，也不要改动别人上传的图片文件</p>
+      <h3>第四步：在html文件中添加图片标签</h3>
+      <p>在html文件中需要插入图片的地方增加如下的代码：</p>
+      <xmp>
+	<image src="/2016-crc/images/xxxx.jpg">
+      </xmp>
+  </body>
+</html>

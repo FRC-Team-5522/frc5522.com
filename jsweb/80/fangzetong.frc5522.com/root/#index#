@@ -1,0 +1,25 @@
+<html>
+  <head>
+   <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+   <title>方泽桐的小家</title>
+  </head>
+  <body bgcolor="sky blue">
+  <body>
+   <div id="container" style="width=body.clientWidth">
+    <div id="header" style="background-color=yellow">
+    <h1 style="margin-bottom:0;">方泽桐的小家</h1></div>
+    <div id="menu" style="background-color:#FFD700;height:635px;width:300px;float:left;">
+     <b>装逼大法</b><br> 
+     1<br> 
+     2<br> 
+     3</div> 
+    <div id="content" style="background-color:sky blue;height:635px;width:body.clientWidth;float:left;">
+     <img src="/images/1.jpg" width="350" height="250">
+     <img src="/images/2.jpg" width="350" height="250">
+     <img src="/images/3.jpg" width="350" height="250">
+     fangzetong</div>
+    <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
+    szkxgz frc5522</div>
+   </div>
+  </body>
+</html>
