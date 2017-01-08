@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>FRC5522播客频道</title>
+        <itunes:subtitle></itunes:subtitle>
+        
+        <link>http://frc5522.com/podcast/</link>
+        <atom:link href="http://frc5522.com/podcast/frc5522.feed" rel="self" type="application/rss+xml" />
+        <description>FRC5522 播客</description>
+        <language>zh-CN</language>
+        <itunes:category text="Technology" />
+        <itunes:image href="http://frc5522.com/podcast/frc5522-logo.png" />
+        <itunes:keywords>FRC 5522 steamworks</itunes:keywords>
+        <itunes:explicit></itunes:explicit>
+        <itunes:author>FRC5522</itunes:author>
+        <itunes:owner>
+            <itunes:name>FRC5522</itunes:name>
+            <itunes:email>podcast@frc5522.com</itunes:email>
+        </itunes:owner>
+        
+        <item>
+            <title>#1: 2017 Steamworks 规则要点讨论</title>
+            <description>
+                <![CDATA[规则要点第一时间解读]]>
+            </description>
+            <link>http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3</guid>
+            <author>老郭，小郭</author>
+            <pubDate>2017-01-08</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3"></enclosure>
+            <itunes:duration>2100</itunes:duration>
+        </item>
+    </channel>
+</rss>
