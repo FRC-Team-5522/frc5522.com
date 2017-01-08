@@ -32,5 +32,17 @@
             <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3"></enclosure>
             <itunes:duration>2100</itunes:duration>
         </item>
+        <item>
+            <title>#2: 2017 Steamworks 规则解读－1</title>
+            <description>
+                <![CDATA[规则解读, C06, C09, G04, G11, G13, 收听时请打开比赛手册对照阅读]]>
+            </description>
+            <link>http://frc5522.com/podcast/media/frc-2017-02.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/frc-2017-02.mp3</guid>
+            <author>老郭</author>
+            <pubDate>2017-01-08</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/frc-2017-02.mp3"></enclosure>
+            <itunes:duration>744</itunes:duration>
+        </item>
     </channel>
 </rss>

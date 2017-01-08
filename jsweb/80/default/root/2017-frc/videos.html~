@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+    <title>FRC 2017 Steamworks 视频资源</title>
+  </head>
+  <body>
+    <h1>水管太小，请爱惜带宽, 有些浏览器播放视频可能有问题，如果无法播放视频，换个浏览器试试</h1>
+    
+    <a href="download/2017FRCGameSeasonManual.pdf">比赛手册下载(11MB)</a><br/>
+    <a href="/podcast">音频博客频道</a><br/>
+
+    <h2>场地设施介绍视频</h2>
+    <ul>
+      <li> Station-Controls     <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-Station-Controls.mp4" ></video> </li>
+      <li> The-Boiler           <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-The-Boiler.mp4" ></video> </li>
+      <li> The-Lifts            <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-The-Lifts.mp4" ></video> </li>
+      <li> In-The-Airship       <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-In-The-Airship.mp4" ></video> </li>
+      <li> Loading-Lanes        <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-Loading-Lanes.mp4" ></video> </li>
+      <li> Alliance-Station     <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-Alliance-Station.mp4" ></video> </li>
+      <li> The-Hoppers          <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-The-Hoppers.mp4" ></video> </li>
+      <li> The-Loading-Stations <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-The-Loading-Stations.mp4" ></video> </li>
+      <li> The-Ropes            <br><video  width="320" height="240" controls><source src="videos/2017-Field-Tour-Video-The-Ropes.mp4" ></video> </li>
+    </ul>
+    <h2>其它资料</h2>
+    <a href="finance.html">财务收支记录</a><br/>
+    <a href="schedule.html">日历</a><br/>
+    <a href="member.html">队员分工</a><br/>
+    <a href="reg-shenzhen.html">深圳赛区注册确认邮件</a><br/>
+  </body>
+</html>
+
+
+
+
