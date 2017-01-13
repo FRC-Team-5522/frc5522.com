@@ -22,16 +22,40 @@
         </itunes:owner>
         
         <item>
-            <title>#1: 2017 Steamworks 规则要点讨论</title>
+            <title>#5: 2017 规则解读－第6章：行为规范</title>
             <description>
-                <![CDATA[规则要点第一时间解读, 收听时请打开比赛手册对照阅读]]>
+                <![CDATA[规则解读, 收听时请打开比赛手册对照阅读]]>
             </description>
-            <link>http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3</link>
-            <guid isPermaLink="true">http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3</guid>
+            <link>http://frc5522.com/podcast/media/05-ch6-conduct-rules.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/05-ch6-conduct-rules.mp3</guid>
             <author>gxy@frc5522.com</author>
-            <pubDate>12 Dec 2017 05:05:22 +0800</pubDate>
-            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3" length="2100"></enclosure>
-            <itunes:duration>2100</itunes:duration>
+            <pubDate>13 Dec 2017 05:05:22 +0800</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/05-ch6-conduct-rules.mp3" length="458"></enclosure>
+            <itunes:duration>458</itunes:duration>
+        </item>
+        <item>
+            <title>#4: 2017 规则解读－第5章：安全规则</title>
+            <description>
+                <![CDATA[规则解读, 收听时请打开比赛手册对照阅读]]>
+            </description>
+            <link>http://frc5522.com/podcast/media/04-ch5-safty-rules.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/04-ch5-safty-rules.mp3</guid>
+            <author>gxy@frc5522.com</author>
+            <pubDate>13 Dec 2017 05:05:22 +0800</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/04-ch5-safty-rules.mp3" length="461"></enclosure>
+            <itunes:duration>461</itunes:duration>
+        </item>
+        <item>
+            <title>#3: 2017 规则解读－第4章：对战</title>
+            <description>
+                <![CDATA[规则解读, 收听时请打开比赛手册对照阅读]]>
+            </description>
+            <link>http://frc5522.com/podcast/media/03-ch4-match-play.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/03-ch4-match-play.mp3</guid>
+            <author>gxy@frc5522.com</author>
+            <pubDate>13 Dec 2017 05:05:22 +0800</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/03-ch4-match-play.mp3" length="1060"></enclosure>
+            <itunes:duration>1060</itunes:duration>
         </item>
         <item>
             <title>#2: 2017 Steamworks 规则解读－1</title>
@@ -44,6 +68,18 @@
             <pubDate>12 Dec 2017 05:05:22 +0800</pubDate>
             <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/frc-2017-02.mp3" length="744"></enclosure>
             <itunes:duration>744</itunes:duration>
+        </item>
+        <item>
+            <title>#1: 2017 Steamworks 规则要点讨论</title>
+            <description>
+                <![CDATA[规则要点第一时间解读, 收听时请打开比赛手册对照阅读]]>
+            </description>
+            <link>http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3</guid>
+            <author>gxy@frc5522.com</author>
+            <pubDate>12 Dec 2017 05:05:22 +0800</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/frc-discuss-2017-01-08.mp3" length="2100"></enclosure>
+            <itunes:duration>2100</itunes:duration>
         </item>
     </channel>
 </rss>
