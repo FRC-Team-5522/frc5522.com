@@ -1,0 +1,37 @@
+var classnt_1_1NetworkConnection =
+[
+    [ "get_msg", "classnt_1_1NetworkConnection.html#a470a756f831053850deb2963b6ced24b", null ],
+    [ "HandshakeFunc", "classnt_1_1NetworkConnection.html#a8b22e1166b46f1901862c46431b535c2", null ],
+    [ "Outgoing", "classnt_1_1NetworkConnection.html#a196cd5a381ceb6f3ee853ab0861d9158", null ],
+    [ "OutgoingQueue", "classnt_1_1NetworkConnection.html#a83c136acf65e2bfa2b2424c211e80c7e", null ],
+    [ "ProcessIncomingFunc", "classnt_1_1NetworkConnection.html#a647e1f8310969a78f5d731a32b580103", null ],
+    [ "State", "classnt_1_1NetworkConnection.html#a214b4f2c59a23cad50c311f979d570ca", [
+      [ "kCreated", "classnt_1_1NetworkConnection.html#a214b4f2c59a23cad50c311f979d570caa203275447887f2b9c06677978a22a82c", null ],
+      [ "kInit", "classnt_1_1NetworkConnection.html#a214b4f2c59a23cad50c311f979d570caa51395a902d02bdc385e929706ef7c4bc", null ],
+      [ "kHandshake", "classnt_1_1NetworkConnection.html#a214b4f2c59a23cad50c311f979d570caa874daceca269712755725864476fab1c", null ],
+      [ "kSynchronized", "classnt_1_1NetworkConnection.html#a214b4f2c59a23cad50c311f979d570caa07604282ad9ec471887558673a89afb7", null ],
+      [ "kActive", "classnt_1_1NetworkConnection.html#a214b4f2c59a23cad50c311f979d570caa7570c9482dd0b0fd1af0d9d3bca6a309", null ],
+      [ "kDead", "classnt_1_1NetworkConnection.html#a214b4f2c59a23cad50c311f979d570caa92fb15ec6511c95aa76543acbad8bd69", null ]
+    ] ],
+    [ "NetworkConnection", "classnt_1_1NetworkConnection.html#ac47abcde8be961e04f1cb9614a676128", null ],
+    [ "~NetworkConnection", "classnt_1_1NetworkConnection.html#a6209281db235da9868a0cba3eb2e6250", null ],
+    [ "NetworkConnection", "classnt_1_1NetworkConnection.html#aeb0a7356c830d03533a422586e1f9fd7", null ],
+    [ "active", "classnt_1_1NetworkConnection.html#adbd34b113646ac9f18bc59478fda24ce", null ],
+    [ "info", "classnt_1_1NetworkConnection.html#a90d4ff4c79023cee4f8a497553581870", null ],
+    [ "last_update", "classnt_1_1NetworkConnection.html#ae96fe73543581120339ab575e3a15ce6", null ],
+    [ "NotifyIfActive", "classnt_1_1NetworkConnection.html#a0ac76cb450e082c6280c497f76da43ac", null ],
+    [ "operator=", "classnt_1_1NetworkConnection.html#aaff27bfdd602e21919502e342cbd515e", null ],
+    [ "PostOutgoing", "classnt_1_1NetworkConnection.html#a69e850d150561d7c5165823e77261c80", null ],
+    [ "proto_rev", "classnt_1_1NetworkConnection.html#a55ad4aadb796eee0b2a87e1d434e62c8", null ],
+    [ "QueueOutgoing", "classnt_1_1NetworkConnection.html#ae219207cb11e1508d85f7475cca39a6e", null ],
+    [ "remote_id", "classnt_1_1NetworkConnection.html#a21f814fd932977dba4dcab99fe36b9ac", null ],
+    [ "set_process_incoming", "classnt_1_1NetworkConnection.html#a29b9faa8059b6acd8b3444b5c74ae801", null ],
+    [ "set_proto_rev", "classnt_1_1NetworkConnection.html#a8e92d8f7fb9c58da4589c56c5e4af57c", null ],
+    [ "set_remote_id", "classnt_1_1NetworkConnection.html#a59fadce3380c63e0372acaa4de53d0f3", null ],
+    [ "set_state", "classnt_1_1NetworkConnection.html#a884108046cbcd3cab990f26e450b5e50", null ],
+    [ "Start", "classnt_1_1NetworkConnection.html#ae913270d6d7865949b96f424395aba8c", null ],
+    [ "state", "classnt_1_1NetworkConnection.html#aa54c75b6a7b63487db49a2977764ba34", null ],
+    [ "Stop", "classnt_1_1NetworkConnection.html#a95495e922d288e5dce38836f756567c8", null ],
+    [ "stream", "classnt_1_1NetworkConnection.html#a7209619e9d949ace460c23b356c60e9c", null ],
+    [ "uid", "classnt_1_1NetworkConnection.html#aa0a5f35abd820138ad8f8f1d2ab32c6f", null ]
+];
