@@ -22,6 +22,18 @@
         </itunes:owner>
         
         <item>
+            <title>#6: 2017 规则解读－第7章：比赛规则</title>
+            <description>
+                <![CDATA[规则解读, 收听时请打开比赛手册对照阅读]]>
+            </description>
+            <link>http://frc5522.com/podcast/media/06-ch7-game-ruls.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/06-ch7-game-ruls.mp3</guid>
+            <author>gxy@frc5522.com</author>
+            <pubDate>13 Dec 2017 05:05:22 +0800</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/06-ch7-game-ruls.mp3" length="1320"></enclosure>
+            <itunes:duration>1320</itunes:duration>
+        </item>
+        <item>
             <title>#5: 2017 规则解读－第6章：行为规范</title>
             <description>
                 <![CDATA[规则解读, 收听时请打开比赛手册对照阅读]]>
