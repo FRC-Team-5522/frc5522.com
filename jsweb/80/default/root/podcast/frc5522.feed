@@ -22,6 +22,18 @@
         </itunes:owner>
         
         <item>
+            <title>#7: 2017 规则解读－第8章：机器人规则(1) 概要</title>
+            <description>
+                <![CDATA[规则解读, 收听时请打开比赛手册对照阅读]]>
+            </description>
+            <link>http://frc5522.com/podcast/media/07-ch8-robot-rules-1.mp3</link>
+            <guid isPermaLink="true">http://frc5522.com/podcast/media/07-ch8-robot-rules-1.mp3</guid>
+            <author>gxy@frc5522.com</author>
+            <pubDate>14 Dec 2017 11:31:17 +0800</pubDate>
+            <enclosure type="audio/mpeg" url="http://frc5522.com/podcast/media/07-ch8-robot-rules-1.mp3" length="546"></enclosure>
+            <itunes:duration>546</itunes:duration>
+        </item>
+        <item>
             <title>#6: 2017 规则解读－第7章：比赛规则</title>
             <description>
                 <![CDATA[规则解读, 收听时请打开比赛手册对照阅读]]>
