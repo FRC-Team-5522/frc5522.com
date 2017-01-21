@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<link rel="stylesheet" type="text/css" href="http://static.2144.cn/sj/static2/css/common.css" />
+<link rel="stylesheet" type="text/css" href="http://static.2144.cn/sj/static2/css/404.css" />
+<title>404</title>
+<meta name="keywords" content="手机小游戏、手机游戏下载、手机游戏下载排行">
+<meta name="description" content="2144手机游戏为您提供好玩的安卓手机游戏下载，苹果手机游戏下载，最新的2014手机游戏排行榜，更多精彩全面的手机游戏免费下载尽在2144手机游戏。">
+<link rel="shortcut icon" href="http://www.2144.cn/favicon.ico">
+<meta name="baidu-site-verification" content="Ij66hnU3he" />
+<base target='_blank'>
+<script src="http://static.2144.cn/sj/static2/js/navigator.js" type="text/javascript"></script>
+</head>
+
+<body class="index">
+
+<div class="wheader">
+  <div class="header">
+    <div class="logo"><a href="/">2144手机游戏</a></div>
+    <div class="tnav">
+      <a href="/" class="main">首页</a>
+      <a href="/a/recommand/" class="and">Android</a>
+      <a href="/i/recommand/" class="iOS">iOS</a>
+      <a href="http://bbs.web2144.cn/forum-172-1.html" class="dis">玩家论坛</a>
+    </div>
+
+    <a href="http://sj.2144.cn/app.html"><div class="er"><strong>好游戏手先知道！</strong>扫二维码下客户端 </div></a>
+  </div>
+</div>
+<div class="jian"><span></span></div>
+
+  <div id="navfixs">
+<div class="nav">
+	<div class="wnav">
+						<div class="navcon">
+			<a target="_self" href="/" class='cur'>精品聚焦</a>
+			<a target="_self" href="/evaluation/" >游戏评测</a>
+			<a target="_self" href="/news/" >新闻资讯</a>
+			<a target="_self" href="/prefecture/" >热门专区</a>
+			<a target="_self" href="/gl/" >攻略大全</a>
+			<a target="_self" href="/video/" >游戏视频</a>
+			<a target="_self" href="/coupon/" >游戏礼包</a>
+			<i class="t0"></i>
+		</div>
+	
+		<div class="serbar">
+			<form action="/site/search" method='get' name="form1" id="form1">
+				<input type="text" name="keywords" class="ser_input" value="搜索好玩的游戏/攻略(^_^)" onfocus="if (value =='搜索好玩的游戏/攻略(^_^)'){value =''}" onblur="if (value ==''){value='搜索好玩的游戏/攻略(^_^)'}">
+				<input  type="submit"  value="" class="ser_submit">
+			</form>
+		</div>
+	</div>
+</div>
+</div>      <!--<h2>Error 404</h2>
+<div class="error grid_16">
+无法解析请求 &quot;act/wxhtml5/qiang/res/rotate.png&quot;。</div>
+-->
+
+<div class="w980s">
+	<h2>呃。。。你迷路了</h2>
+	<p>你要去的页面大概偷偷溜去玩<a href="http://bh.2144.cn/">崩坏学院2</a>了，你可以<a href="http://bh.2144.cn/">过去看看</a>或者<a href="http://sj.2144.cn/">返回主页</a>。</p>
+</div>
+
+<div class="wimg"></div>  <div class="footer">
+  <div class="wfooter">
+    <div class="find">
+      <h3>发现游戏</h3>
+      <a href="http://sj.2144.cn/evaluation/">游戏评测</a>
+      <a href="http://sj.2144.cn/i/limitfree/">苹果限免</a>
+      <a href="http://sj.2144.cn/i/jailbreak/">越狱版游戏</a>
+      <a href="http://sj.2144.cn/a/crack/">破解游戏</a>
+    </div>
+
+    <div class="find">
+      <h3>游戏库</h3>
+      <a href="http://sj.2144.cn/a/recommand/">安卓游戏</a>
+      <a href="http://sj.2144.cn/i/recommand/">iOS游戏</a>
+      <a href="http://www.2144.cn/girls/">女生小游戏</a>
+    </div>
+
+    <div class="find">
+      <h3>资讯攻略</h3>
+      <a href="http://sj.2144.cn/news/">新闻资讯</a>
+      <a href="http://sj.2144.cn/gl/">攻略大全</a>
+    </div>
+
+    <div class="find">
+      <h3>游戏专区</h3>
+      <a href="http://sj.2144.cn/bh2/">崩坏学园2</a>
+      <a href="http://sj.2144.cn/topic/wjmt/">我叫MT</a>
+      <a href="http://sj.2144.cn/topic/dtcq/">刀塔传奇</a>
+      <a href="http://sj.2144.cn/topic/nnhysj/">暖暖环游世界</a>
+      <a href="http://sj.2144.cn/topic/ttkp/">天天酷跑</a>
+      <a href="http://sj.2144.cn/topic/slzj/">锁链战记</a>
+    </div>
+
+    <div class="er2">
+      <img a="http://static.2144.cn/sj/static2/images/er2.jpg?2" alt="二维码">
+      <p>扫二维码下客户端</p>
+    </div>
+  </div>
+
+  </div>
+
+<div class="footer_b">
+  <div class="wfooter_b">
+            <p><a rel="nofollow" href="http://www.2144.cn/about/about.htm">关于我们</a>|<a rel="nofollow" href="http://www.2144.cn/about/lianxi.htm">联系我们</a>|<a rel="nofollow" href="http://www.2144.cn/about/contact.htm">留言反馈</a>|<a rel="nofollow" href="http://www.2144.cn/about/hezuo.htm">游戏合作</a>|<a rel="nofollow" href="http://www.2144.cn/about/recommend.htm">推荐游戏</a>|<a rel="nofollow" href="http://www.2144.cn/about/declare.htm">版权声明</a>|<a rel="nofollow" href="http://www.2144.cn/about/duty.htm">使用协议</a>|<a rel="nofollow" href="http://www.2144.cn/about/job.htm">招聘信息</a>|<a rel="nofollow" href="http://static.2144.cn/sj/mobile2/msic/faq/">玩家客服</a>|<a rel="nofollow" href="/sitemap.xml">网站地图</a></p>Copyright&nbsp;&nbsp;&nbsp;&copy;2014 2144.CN&nbsp;&nbsp;&nbsp;沪ICP备13026985号-10&nbsp;&nbsp;&nbsp;沪网文【2013】0673-088号
+    </div>
+</div>
+  <div class="hidden">
+      <!--统计代码放这里-->
+          <script type="text/javascript">
+              var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+              document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F32efb14eb0a8a4c512338b0a49e28ad1' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+  </div>
+<script type="text/javascript" src="http://static.2144.cn/sj/static2/js/common.js"></script>
+<script type="text/javascript" src="http://static.2144.cn/sj/static2/js/lazyLoad.js"></script>
+</body>
+</html>
