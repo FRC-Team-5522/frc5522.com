@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="zh" class="no-js  zh">
+<head>
+
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <title>FRC - Team 5522</title>
+  <meta name="description" content="Frc Team 5522官网">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta name="apple-mobile-web-app-title" content="FRC 5522">
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-TileImage" content="/favicon-144.png">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="Frc Team 5522官网">
+  <meta property="og:url" content="https://www.frc5522.com/zh-cn/">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Team FRC 5522。">
+  <meta property="og:image" content="https://cdn.serif.com/affinity/img/photo/og/mountains-081120160848.jpg">
+  <meta property="og:site_name" content="FRC 5522">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="static/css/style-6d22b68247.css">
+  
+  <!-- Fonts-->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,300italic,400italic">
+  
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  
+  <!-- DNS Prefetch -->
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://cdn.serif.com">
+  <link rel="dns-prefetch" href="https://cdn.affinity.serif.com">
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+  <link rel="dns-prefetch" href="https://ajax.googleapis.com">
+  <link rel="dns-prefetch" href="https://ssl.google-analytics.com">
+  <link rel="dns-prefetch" href="https://www.google-analytics.com">
+  
+  <!-- hreflang -->
+  <link rel="alternate" href="https://affinity.serif.com/zh-cn/" hreflang="zh-cn">
+
+      
+  <!-- Modernizr -->
+  <script src="https://cdn.serif.com/affinity/js/libs/modernizr-3.3.1.js"></script>
+  
+</head>
+
+
+<body class="u-bg-cod-grey"  data-no-nav>
+
+  <!-- [if lt IE 9]>
+    <div class="c-browser-upgrade  u-text-zeta  u-text-center">
+      <a href="http://outdatedbrowser.com/zh/">这都什么年代了你的浏览器居然不支持。请<strong>升级</strong>浏览器以改进体验。</a>
+    </div>
+  <![endif] -->
+
+
+  <!-- Header -->
+  <header class="c-page-header" data-page-header>
+    <div class="o-hero-wrapper">
+      <div class="c-page-header__brand">
+        <a href="/zh-cn/"><img src="http://frc5522.com:8888/zh-cn/5522.png" alt="团队介绍-Self introduction"></a>
+      </div>
+
+      <ul class="o-inline-list  c-nav-options">
+          <button class="c-nav-toggle" data-nav-toggle  data-toggle-menu="primary-navigation">
+            <span class="c-nav-toggle__text">菜单</span>
+            <span class="c-nav-toggle__icon"></span>
+          </button>
+      </ul>
+
+    </div>
+  </header>
+
+
+  <!-- Global Navigation -->
+  <nav>
+    <div class="c-nav  c-menu-overlay  c-menu-overlay--top  c-menu-overlay--transition" data-menu-overlay="primary-navigation">
+      <div class="c-nav-wrapper">
+        <div class="gw">
+
+          <!-- Designer 1.5 -->
+          <div class="c-nav-box  c-nav-box--intro">
+            <a href="http://lv-max.top:1234/lv" class="c-nav-update">
+                Powered by Lwj
+                <span class="u-triangle"></span>
+            </a>
+          </div>
+
+
+
+          <!-- Help and resources -->
+          <div class="c-nav-box">
+            <ul class="c-nav-items">
+              <li>资源区</li>
+              <li><a href="http://frc5522.com/2017-frc/index.html">各种资料+工具</a></li>
+              <li><a href="http://frc5522.com/podcast/">博客</a></li>
+              <li><a href="http://frc5522.com/solidworks.html">Solidworks 有关资源</a></li>
+            </ul>
+          </div>
+
+
+          <!-- Company -->
+          <div class="c-nav-box">
+            <ul class="c-nav-items">
+              <li>部分成员个人网页</li>
+              <li><a href="http://shiweiling.frc5522.com/">施伟玲</a></li>
+              <li><a href="http://fangzetong.frc5522.com/">方泽桐</a></li>
+              <li><a href="http://liuxiaotong.frc5522.com/" >刘小童</a></li>
+              <li><a href="http://guoruoze.frc5522.com/">郭若泽</a></li>
+            </ul>
+          </div>
+          <!-- Company -->
+          <div class="c-nav-box">
+            <ul class="c-nav-items">
+              <li>网页制作</li>
+              <li><a href="http://lv-max.top:1234/lv">关于我</a></li>
+              <li>微信:15217766432</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- Main Content -->
+  <main>
+
+    <div class="vertical-carousel-wrap" data-wrap-outer>
+      <div class="vertical-carousel  carousel-loading" data-vertical-carousel>
+        <div class="vertical-carousel-inner" data-carousel-inner>
+
+          <!-- Affinity Photo -->
+          <div class="vertical-carousel-slide" data-carousel-slide>
+            <div class="slide-meta" data-slide-meta>
+              <a href="http://frc5522.com:8888/zh-cn/introduction.html">
+                <h2 class="slide-meta-title">Team 5522</h2>
+                <h4 class="slide-meta-more">了解更多</h4>
+              </a>
+
+              <h3 class="slide-meta-description">关于我们</h3>
+            </div>
+
+            <div class="slide-content" data-slide-content></div>
+            <div class="slide-background" data-slide-background>
+              <img src="http://frc5522.com:8888/zh-cn/back1.jpg" alt="关于我们">
+            </div>
+
+            <div class="c-home-flash">
+              <a href="/zh-cn/photo/" class="u-text-white  u-wf-600">
+                Coding by Lv
+              </a>
+            </div>
+          </div>
+
+
+          <!-- Affinity Designer -->
+          <div class="vertical-carousel-slide" data-carousel-slide>
+            <div class="slide-meta" data-slide-meta>
+              <a href="http://baike.baidu.com/item/FRC/18552807#viewPageContent">
+                <h2 class="slide-meta-title">FIRST Robotics Competition</h2>
+                <h4 class="slide-meta-more">赛事介绍</h4>
+              </a>
+
+              <h3 class="slide-meta-description">赛事介绍</h3>
+            </div>
+
+            <div class="slide-content" data-slide-content></div>
+            <div class="slide-background" data-slide-background>
+              <img src="http://frc5522.com:8888/zh-cn/frc.jpg" alt="FRC 赛事介绍">
+            </div>
+
+           <div class="c-home-flash">
+              <a href="/zh-cn/photo/" class="u-text-white  u-wf-600">
+                Coding by Lv
+              </a>
+            </div>
+          </div>
+
+
+          <!-- Affinity Designer Workbook -->
+          <div class="vertical-carousel-slide" data-carousel-slide>
+            <div class="slide-meta" data-slide-meta>
+              <a href="http://frc5522.com/2017-frc/progress.html">
+                <h2 class="slide-meta-title">2017 Steamworks</h2>
+                <h4 class="slide-meta-more">小组目标与进度</h4>
+              </a>
+
+              <h3 class="slide-meta-description">小组目标与进度</h3>
+            </div>
+
+            <div class="slide-content" data-slide-content></div>
+            <div class="slide-background" data-slide-background>
+              <img src="http://frc5522.com:8888/zh-cn/steamworks.png" alt="小组目标与进度">
+            </div>
+          </div>
+
+
+          <!-- Affinity Photo on iPad -->
+          <div class="vertical-carousel-slide" data-carousel-slide>
+            <div class="slide-meta" data-slide-meta>
+              <a href="/2017-frc/member.html">
+                <h2 class="slide-meta-title">Team 5522</h2>
+                <h4 class="slide-meta-more">了解更多</h4>
+              </a>
+
+              <h3 class="slide-meta-description">队伍人员名单</h3>
+            </div>
+
+            <div class="slide-content" data-slide-content></div>
+            <div class="slide-background" data-slide-background>
+              <img src="https://cdn.serif.com/affinity/img/home/photo-ipad-190920161545--small.jpg" alt="队伍人员名单">
+            </div>
+          </div>
+
+
+          <!-- ADA Winners -->
+          <div class="vertical-carousel-slide" data-carousel-slide>
+            <div class="slide-meta" data-slide-meta>
+              <a href="/2017-frc/index.html">
+                <h2 class="slide-meta-title">队内资源区</h2>
+                <h4 class="slide-meta-more">了解更多</h4>
+              </a>
+
+              <h3 class="slide-meta-description">Team 5522队内资源</h3>
+            </div>
+
+            <div class="slide-content" data-slide-content></div>
+            <div class="slide-background" data-slide-background>
+              <img src="https://cdn.affinity.serif.com/img/home/apple-design-award-101220151442--small.jpg" alt="Team 5522队内资源">
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="progress-home  u-center-vh" id="progress" data-progress-bar>
+        <img class="progress-home-logo" src="https://cdn.affinity.serif.com/img/home/affinity-logo.svg" alt="" data-svg-png>
+      </div>
+    </div>
+
+   </main>
+
+
+
+
+  <!-- Trial overlay -->
+  <div data-menu-overlay="trial-menu" class="c-menu-overlay  c-menu-overlay--bottom  c-menu-overlay--transition  c-signup-overlay">
+    <button class="c-btn-close" data-menu-overlay-close></button>
+  </div>
+
+
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="https://cdn.serif.com/affinity/js/libs/jquery-3.1.0.min.js"><\/script>')</script>
+
+  <!-- TweenMax -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/TweenMax.min.js"></script>
+  <script>window.TweenMax || document.write('<script src="https://cdn.serif.com/affinity/js/libs/tweenmax-1.17.0.min.js"><\/script>')</script>
+
+  <!-- Scripts -->
+  <script>window.mc = "";</script>
+  <script src="static/js/script.min-a54d93f773.js"></script>
+  <script>
+    $(window).on('load', function () {
+      $('[data-vertical-carousel]').verticalCarousel({});
+    });
+
+    window.onpageshow = function(event) {
+      if (event.persisted) {
+        $.each(_carousels, function (i, carousel) {
+          carousel.resume();
+        });
+      }
+    };
+
+  </script>
+
+  <!-- Page locale info -->
+  <script>
+    var SerifLabs = SerifLabs || {};
+    SerifLabs.locale = {
+      locale : "zh_CN",
+      urlFriendly: "zh-cn",
+      country: "中国",
+      language: "zh",
+      name: "中文"
+    };
+  </script>
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-51737147-1', 'auto', {'allowLinker': true});
+    ga('require', 'linker');
+    ga('linker:autoLink', ['serif.com', 'affinity.store'], false, true);
+    ga('send', 'pageview');
+    ga('set', 'dimension1', window.mc);
+  </script>
+
+</body>
+</html>
